@@ -1,4 +1,8 @@
-# learningapp
+# LearningApp
+
+This is just a fun little project to help create systems to study with.
+
+My goal is for users to be able to use this app to create their own custom math problem sets to practice with, then create flash cards and other practice systems.
 
 ## Project setup
 ```

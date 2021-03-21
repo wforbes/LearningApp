@@ -21,7 +21,12 @@
 				</v-col>
 				<v-col cols="3">
 					<v-card>
-						<v-card-title>Mathematics</v-card-title>
+						<v-card-title>Physics</v-card-title>
+					</v-card>
+				</v-col>
+				<v-col cols="3">
+					<v-card>
+						<v-card-title>Chemistry</v-card-title>
 					</v-card>
 				</v-col>
 			</v-row>
